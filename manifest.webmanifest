@@ -1,13 +1,11 @@
 {
   "name": "La Guitarra Eléctrica",
   "short_name": "Guitarra PWA",
-  "description": "PWA de guitarras eléctricas",
   "theme_color": "#a2000e",
-  "background_color": "#0b132b",
+  "background_color": "#a1a1a1",
   "display": "standalone",
-  "orientation": "any",
   "scope": "./",
-  "start_url": "./index.html",
+  "start_url": ".",
   "icons": [
     {
       "src": "icons/icon-192.png",
